@@ -3,4 +3,4 @@ A machine learning project with the goal of classifying different stages of Alzh
 
 The jupyter notebook contains a VGG-16 model used to classify stages of Alzheimers. Weights that I have trained can be downloaded from http://www.mediafire.com/file/jrf51v6ktj1qufb/file.
 
-Future plans are to deploy our model to a site.
+Try out the deployed model at alz-identifiers.herokuapp.com
